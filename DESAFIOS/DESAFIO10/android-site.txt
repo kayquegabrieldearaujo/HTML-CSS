@@ -1,4 +1,4 @@
-[TEXTO]
+{TEXTO}
 
 Curiosidades de Tecnologia
 
